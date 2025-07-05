@@ -8,6 +8,7 @@ I am always passionate to crack into customer problems and innovate them with up
 - ⚡ excavate high-quality insights into client’s success factors, be their go-to partner for growth.
 - ⚡ all while continuing to bring value to customers, build long-lasting relationships, and drive the
 innovation & transformation that accomplish scale.
+
 ## I can align, lead and grow global product teams from 5 to 100 people.
 - 🌱 I strive to capture the imagination of my team members and help them to struggle for shared.
 - 🌱 I help them to understand the big picture of what they’re working toward, and why.
@@ -22,10 +23,17 @@ innovation & transformation that accomplish scale.
 [﻿Large Enterprise Cloud Transformation](https://www.linkedin.com/pulse/large-enterprise-cloud-transformation-prakash-pillay/)
 
 
-## My Skill Set
-|  |  |  |
-| ----- | ----- | ----- |
-| <p> </p><p>Frontend</p><p> </p><p> </p>![React](https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg "")<p> </p>![Angular](https://profilinator.rishav.dev/skills-assets/angularjs-original.svg "")<p> </p>![Docker](https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg "")<p> </p>![.NET](https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg "")<p> </p><p> </p> | <p> </p><p>Backend</p><p> </p><p> </p>![C++](https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg "")<p> </p>![JavaScript](https://profilinator.rishav.dev/skills-assets/javascript-original.svg "")<p> </p>![MongoDB](https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg "")<p> </p>![Linux](https://profilinator.rishav.dev/skills-assets/linux-original.svg "")<p> </p>![Nginx](https://profilinator.rishav.dev/skills-assets/nginx-original.svg "")<p> </p>![Express.js](https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg "")<p> </p>![Git](https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg "")<p> </p>![.Net Core](https://profilinator.rishav.dev/skills-assets/dotnetcore.png "")<p> </p><p> </p> | <p> </p><p>DevOps</p>![AWS](https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg "")![GCP](https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg "")![Kubernetes](https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg "")![Git](https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg "")![Bash](https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg "")![Kafka](https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg "")![Azure](https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg "")![Docker](https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg "") |
+## Core Competencies
+
+• Product Strategy & Platform Vision
+• Developer Experience & Usability
+• Hybrid Architecture (Cloud + Self-Managed)
+• End-to-End Product Lifecycle Ownership
+• Agile Product Delivery & Governance
+• Scalable Platform Infrastructure
+• Stakeholder & Executive Engagement
+• AI, Observability, and Compliance Enablement
+
 ## Connect with me
 [﻿linkedIn](https://www.linkedin.com/in/prakashpillay/)
 
