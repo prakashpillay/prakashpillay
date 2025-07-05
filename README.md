@@ -1,7 +1,7 @@
 <p><a target="_blank" href="https://app.eraser.io/workspace/QluJX4CM0ly6CWXVtQr9" id="edit-in-eraser-github-link"><img alt="Edit in Eraser" src="https://firebasestorage.googleapis.com/v0/b/second-petal-295822.appspot.com/o/images%2Fgithub%2FOpen%20in%20Eraser.svg?alt=media&amp;token=968381c8-a7e7-472a-8ed6-4a6626da5501"></a></p>
 
 #  Hi 👋, I'm Prakash Pillay
-I am always passionate to crack into customer problems and innovate them with up-to-the-minute technology. I build, scale and augment business portfolios that matter. To bring about this, I emphasis on delivering key outcomes, building high performing teams with alignment to organizations vision and mission statement.🚀
+Visionary product and engineering leader with 20+ years of experience in designing, scaling, and delivering enterprise-grade platforms across financial, HR, and infrastructure domains. Proven ability to lead global product organizations, define multi-year roadmaps, and transition legacy platforms to hybrid cloud-native architectures. Recognized for driving developer-centric innovation, embedding AI and compliance-by-design, and enabling high-impact product delivery across regulated industries. Adept at working closely with C-level leadership to align platform capabilities with strategic business outcomes, customer scale, and product-led growth.🚀
 
 - ⚡ customer-centricity — putting customer at the center of business. 
 - ⚡ embracing a digital-first platform at the execution of big ideas with given constraints.
@@ -24,18 +24,26 @@ innovation & transformation that accomplish scale.
 
 
 ## Core Competencies
-
+</br>
 • Product Strategy & Platform Vision
+</br>
 • Developer Experience & Usability
+</br>
 • Hybrid Architecture (Cloud + Self-Managed)
+</br>
 • End-to-End Product Lifecycle Ownership
+</br>
 • Agile Product Delivery & Governance
+</br>
 • Scalable Platform Infrastructure
+</br>
 • Stakeholder & Executive Engagement
+</br>
 • AI, Observability, and Compliance Enablement
+</br>
 
 ## Connect with me
-[﻿linkedIn](https://www.linkedin.com/in/prakashpillay/)
+<b>[﻿LinkedIn](https://www.linkedin.com/in/prakashpillay/)</b>
 
 ![github](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white "")
 
