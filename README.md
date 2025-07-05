@@ -1,6 +1,11 @@
 <p><a target="_blank" href="https://app.eraser.io/workspace/QluJX4CM0ly6CWXVtQr9" id="edit-in-eraser-github-link"><img alt="Edit in Eraser" src="https://firebasestorage.googleapis.com/v0/b/second-petal-295822.appspot.com/o/images%2Fgithub%2FOpen%20in%20Eraser.svg?alt=media&amp;token=968381c8-a7e7-472a-8ed6-4a6626da5501"></a></p>
 
 #  Hi 👋, I'm Prakash Pillay
+
+Prakash Pillay
+Engineering | Cloud-Native Platforms | Enterprise Infrastructure | Developer-Centric Innovation Driving platform product excellence through customer empathy, technical rigor, and stakeholder alignment.
+<br>
+<br>
 Visionary product and engineering leader with 20+ years of experience in designing, scaling, and delivering enterprise-grade platforms across financial, HR, and infrastructure domains. Proven ability to lead global product organizations, define multi-year roadmaps, and transition legacy platforms to hybrid cloud-native architectures. Recognized for driving developer-centric innovation, embedding AI and compliance-by-design, and enabling high-impact product delivery across regulated industries. Adept at working closely with C-level leadership to align platform capabilities with strategic business outcomes, customer scale, and product-led growth.🚀
 
 - ⚡ customer-centricity — putting customer at the center of business. 
@@ -24,23 +29,16 @@ innovation & transformation that accomplish scale.
 
 
 ## Core Competencies
-</br>
-• Product Strategy & Platform Vision
-</br>
-• Developer Experience & Usability
-</br>
-• Hybrid Architecture (Cloud + Self-Managed)
-</br>
-• End-to-End Product Lifecycle Ownership
-</br>
-• Agile Product Delivery & Governance
-</br>
-• Scalable Platform Infrastructure
-</br>
-• Stakeholder & Executive Engagement
-</br>
-• AI, Observability, and Compliance Enablement
-</br>
+<ul>
+  <li>Product Strategy & Platform Vision</li> 
+  <li>Developer Experience & Usability</li> 
+  <li>Hybrid Architecture (Cloud + Self-Managed)</li> 
+  <li>End-to-End Product Lifecycle Ownership</li> 
+  <li>Agile Product Delivery & Governance</li> 
+  <li>Scalable Platform Infrastructure</li> 
+  <li>Stakeholder & Executive Engagement</li> 
+  <li>AI, Observability, and Compliance Enablement</li> 
+</ul>
 
 ## Connect with me
 <b>[﻿LinkedIn](https://www.linkedin.com/in/prakashpillay/)</b>
